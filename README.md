@@ -1,7 +1,7 @@
 # Update NPM
 
 ```bash
-npm update
+npm install
 ```
 
 # Run Eslint
